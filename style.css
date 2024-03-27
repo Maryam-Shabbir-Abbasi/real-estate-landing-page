@@ -1,0 +1,62 @@
+body{
+    font-family: "Poppins";
+    
+}
+
+.navbar{
+    background-color: #FAFAFA;
+}
+.abcd{
+    align-content: center;
+}
+
+.cardd{
+    background: transparent;
+    border: none;
+}
+.bg-1{
+    margin-top: -600px;
+    
+}
+.class{
+    margin-top: 60px;
+}
+.textt{
+    color: black;
+}
+.section1{
+    background-image: url("images/bg-1.png");}
+    .email{
+        width: 408px;
+height: 60px;
+top: 537px;
+left: 76px;
+gap: 0px;
+border-radius: 40px;
+opacity: 0px;
+border: none;
+    }
+    .buttonn{
+        border: none;
+        background-color: black;
+        color: white;
+        border-radius: 40px;
+        height: 55px;
+        margin-left: -20px;
+        width: 130px;
+        
+    }
+    .section2{
+        margin-top: 30px;
+    }
+    .cards{
+        margin-top: 40px;
+    
+    }
+    .section3{
+        margin-top: 40px;
+    }
+    .cards2{
+        margin-top: 40px;
+
+    }
