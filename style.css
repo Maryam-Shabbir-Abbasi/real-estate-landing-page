@@ -8,6 +8,7 @@ body{
 }
 .abcd{
     align-content: center;
+    margin-top: 8px;
 }
 
 .cardd{
@@ -17,6 +18,12 @@ body{
 .bg-1{
     margin-top: -600px;
     
+}
+.container1{
+    margin-top: 80px;
+}
+.text2{
+    margin-top: 100px;
 }
 .class{
     margin-top: 60px;
@@ -46,6 +53,10 @@ border: none;
         width: 130px;
         
     }
+    .subscribe{
+        font-size: 40px;
+        font-weight: bolder;
+    }
     .section2{
         margin-top: 30px;
     }
@@ -59,4 +70,30 @@ border: none;
     .cards2{
         margin-top: 40px;
 
+    }
+    .containerbtn1{
+        border-radius: 40px;
+    }
+    .ownclass{
+        margin-top: 190px;
+    }
+    .containerbtn2{
+        border-radius: 40px;
+        height: 40px;
+        margin-top: 5px;
+    }
+    .ownclasscard{
+        margin-left: 40px;
+    }
+    .numbers{
+        margin-top: 20px;
+        font-size: 70px;
+        font-weight: bolder;
+    }
+    .texts{
+        margin-left: 30px;
+    }
+    .Rectangle{
+        position: absolute;
+        margin-left: 700px;
     }
